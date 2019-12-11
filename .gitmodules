@@ -52,3 +52,6 @@
 [submodule "pack/cedarvim/start/yats.vim"]
 	path = pack/cedarvim/start/yats.vim
 	url = https://github.com/HerringtonDarkholme/yats.vim
+[submodule "pack/cedarvim/start/vim-elixir"]
+	path = pack/cedarvim/start/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir
